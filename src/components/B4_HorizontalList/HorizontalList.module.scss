@@ -1,0 +1,18 @@
+.horizontalList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .btn {
+    margin-top: 16px;
+  }
+
+  .cards {
+    margin-top: 32px;
+    display: flex;
+
+    &_finish {
+      outline: 10px solid green;
+    }
+  }
+}

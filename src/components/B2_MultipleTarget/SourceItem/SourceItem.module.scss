@@ -1,0 +1,24 @@
+.wrapper {
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .sourceItem {
+    width: 30px;
+    height: 30px;
+    background: grey;
+
+    &_CircleItem {
+      border-radius: 50%;
+    }
+
+    &_RhombusItem {
+      transform: rotate(45deg);
+    }
+  }
+
+}
+
+
+

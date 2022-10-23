@@ -1,0 +1,23 @@
+.singleTarget {
+
+  .content {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .brushes {
+      display: flex;
+
+      .brush {
+        cursor: pointer;
+        &:not(:first-child) {
+          margin-left: 8px;
+        }
+      }
+    }
+  }
+
+
+
+}

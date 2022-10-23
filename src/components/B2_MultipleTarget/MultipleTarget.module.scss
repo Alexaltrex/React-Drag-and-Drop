@@ -1,0 +1,14 @@
+.multipleTarget {
+  .content {
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+
+    .sourceItems, .targetItems {
+      flex-basis: 50%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+}

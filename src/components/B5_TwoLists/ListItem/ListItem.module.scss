@@ -1,0 +1,15 @@
+.listItem {
+  padding: 5px 10px;
+  border-radius: 5px;
+  background: darkgreen;
+  color: #FFF;
+  user-select: none;
+
+  &:not(:first-child) {
+    margin-top: 5px;
+  }
+
+  &_isDragging {
+    opacity: 0.5;
+  }
+}

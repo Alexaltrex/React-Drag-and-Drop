@@ -1,0 +1,18 @@
+.card {
+  width: 204px;
+  height: 350px;
+
+  &_isDragging {
+    opacity: 0;
+  }
+
+  &:not(:first-child) {
+    margin-left: 1px;
+  }
+
+  img {
+    display: block;
+    width: 204px;
+    height: 350px;
+  }
+}
