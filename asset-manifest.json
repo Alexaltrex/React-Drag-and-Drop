@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-drag-and-drop/static/css/main.16b8018d.css",
+    "main.js": "/react-drag-and-drop/static/js/main.03c38492.js",
+    "static/js/787.b1f9869a.chunk.js": "/react-drag-and-drop/static/js/787.b1f9869a.chunk.js",
+    "static/media/1.jpg": "/react-drag-and-drop/static/media/1.a1907601669f3839e688.jpg",
+    "static/media/2.jpg": "/react-drag-and-drop/static/media/2.027698e0d8fea4943165.jpg",
+    "static/media/0.jpg": "/react-drag-and-drop/static/media/0.adc81b5978a063d9c206.jpg",
+    "static/media/3.jpg": "/react-drag-and-drop/static/media/3.9428e022b79b69edf889.jpg",
+    "index.html": "/react-drag-and-drop/index.html",
+    "main.16b8018d.css.map": "/react-drag-and-drop/static/css/main.16b8018d.css.map",
+    "main.03c38492.js.map": "/react-drag-and-drop/static/js/main.03c38492.js.map",
+    "787.b1f9869a.chunk.js.map": "/react-drag-and-drop/static/js/787.b1f9869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b8018d.css",
+    "static/js/main.03c38492.js"
+  ]
+}
